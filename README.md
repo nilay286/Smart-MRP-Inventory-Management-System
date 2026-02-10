@@ -32,7 +32,7 @@ The system categorizes stock health into three visual alerts:
 - 🟢 **STOK YETERLİ (Healthy):** Sufficient for production.
 
 
-> ![Stock Analysis Screenshot](./images/stok_analiz_dashboard.png) 
+> ![Stock Analysis Screenshot](./stok_analiz_dashboard.png) 
 > *Caption: Real-time inventory status mapping with conditional formatting.*
 
 ### 2. Data Pipeline
