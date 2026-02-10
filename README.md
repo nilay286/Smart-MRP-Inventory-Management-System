@@ -46,5 +46,6 @@ By utilizing **Applied Steps** in Power Query, the report refreshes with a singl
 - **Decision Support:** Provides purchasing teams with precise "Net Requirement" data.
 
 ---
-**Author:** [Adın Soyadın]
-**Connect with me:** [LinkedIn Linkin]
+**Author:** [Nilay Özel]
+
+**Connect with me:** [https://www.linkedin.com/in/nilay-%C3%B6zel-2927a7210/]
